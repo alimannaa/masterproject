@@ -1,0 +1,8 @@
+classes=1
+train=/content/drive/My Drive/dataset/train_set.txt
+
+valid=/content/drive/My Drive/dataset/valid_set.txt
+
+names=/content/drive/My Drive/dataset/classes.txt
+
+backup=/content/drive/My Drive/yolo_pytorch/backup
